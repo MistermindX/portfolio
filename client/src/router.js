@@ -1,10 +1,10 @@
 import VueRouter from 'vue-router'
 import Home from './pages/Home'
-import AboutUs from './pages/AboutUs'
+import AboutMe from './pages/AboutMe'
 
 const routes = [
   { path: '/', component: Home, name: 'Home' },
-  { path: '/aboutus', component: AboutUs, name: 'AboutUs' }
+  { path: '/aboutme', component: AboutMe, name: 'AboutMe' }
 ]
 
 export default new VueRouter({ routes, mode: 'history' })
