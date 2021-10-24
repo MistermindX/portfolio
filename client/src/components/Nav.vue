@@ -2,6 +2,9 @@
   <nav>
     <router-link to="/" name="Home">Home</router-link>
     <router-link to="/aboutme" name="AboutMe">About Me</router-link>
+    <a href="https://github.com/MistermindX/">Github</a>
+    <a href="https://linkedin.com/in/max-arenstein">LinkedIn</a>
+    <a href="mailto:max.arenstein@gmail.com">Email</a>
   </nav>
 </template>
 
@@ -13,14 +16,14 @@ export default {
 
 <style scoped>
 nav {
-  background: #4254b9;
+  background: #000000;
   padding: 1em;
   text-align: center;
 }
 
 nav a {
   margin: 1em;
-  color: #1b0091;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 800;
 }
