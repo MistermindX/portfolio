@@ -2,8 +2,8 @@
   <nav>
     <router-link to="/" name="Home">Home</router-link>
     <router-link to="/aboutme" name="AboutMe">About Me</router-link>
-    <a href="https://github.com/MistermindX/">Github</a>
-    <a href="https://linkedin.com/in/max-arenstein">LinkedIn</a>
+    <a href="https://github.com/MistermindX/" target="_blank">Github</a>
+    <a href="https://linkedin.com/in/max-arenstein" target="_blank">LinkedIn</a>
     <a href="mailto:max.arenstein@gmail.com">Email</a>
   </nav>
 </template>

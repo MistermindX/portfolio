@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <h1>Projects:</h1>
+      <h1>Projects</h1>
     </header>
     <div class="content">
       <ProjectCard
