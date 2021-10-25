@@ -43,12 +43,12 @@ export default {
         name: 'ComicSalesApp',
         github: 'https://github.com/MistermindX/ComicSalesApp',
         image:
-          'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635181405/Portfolio/ComicSalesApp.png'
+          'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635183264/Portfolio/ComicSalesApp.png'
       },
       {
         id: 4,
         name: 'BetterBuy',
-        github: 'https://github.com/MistermindX/betterbuy',
+        github: 'https://github.com/MistermindX/BetterBuy',
         image:
           'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635181503/Portfolio/BetterBuy.png'
       }
