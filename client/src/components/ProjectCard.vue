@@ -31,6 +31,10 @@ export default {
   text-decoration: none;
 }
 
+.card a {
+  text-decoration: none;
+}
+
 .card a:visited {
   color: #ffffff;
   text-decoration: none;
