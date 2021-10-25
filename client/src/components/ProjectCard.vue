@@ -4,7 +4,7 @@
       <img :src="image" :alt="name" />
     </div>
     <div class="info-wrapper flex-col">
-      <a :href="github"
+      <a :href="github" target="_blank"
         ><h3>{{ name }}</h3></a
       >
     </div>
