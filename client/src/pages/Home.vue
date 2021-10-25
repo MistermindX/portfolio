@@ -37,6 +37,20 @@ export default {
         github: 'https://github.com/samkphillips/EatUp',
         image:
           'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635093660/Portfolio/EatUp.png'
+      },
+      {
+        id: 3,
+        name: 'ComicSalesApp',
+        github: 'https://github.com/MistermindX/ComicSalesApp',
+        image:
+          'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635181405/Portfolio/ComicSalesApp.png'
+      },
+      {
+        id: 4,
+        name: 'BetterBuy',
+        github: 'https://github.com/MistermindX/betterbuy',
+        image:
+          'https://res.cloudinary.com/dykazrtyc/image/upload/c_thumb,w_200,g_face/v1635181503/Portfolio/BetterBuy.png'
       }
     ]
   }),
