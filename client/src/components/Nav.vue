@@ -6,7 +6,7 @@
     <a href="https://github.com/MistermindX/" target="_blank">Github</a>
     <a href="https://linkedin.com/in/max-arenstein" target="_blank">LinkedIn</a>
     <a
-      href="https://docs.google.com/document/d/1OUhSM0hYXDbaTcfQYSa4bMKbejLKi1zpp13Vrjrfu4Q/edit?usp=sharing"
+      href="https://docs.google.com/document/d/1RoZG-4-MlmeCHY2xfvha8LWUZZ1OQ9tBdfTSitIbvL8/edit?usp=sharing"
       target="_blank"
       >Resume</a
     >
